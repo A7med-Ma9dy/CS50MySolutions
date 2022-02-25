@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: the best case senario which is sorted.txt should have the best time omega(n)
+
+sort2 uses: merge sort
+
+How do you know?: the worst case senario which is reversed50000.txt for example should have the best time O(nlogn)
+
+sort3 uses: selection sort
+
+How do you know?: the slowest of them all

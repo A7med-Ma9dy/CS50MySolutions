@@ -1,0 +1,4 @@
+prompt user for integar height
+height should be between 1 & 8 if not reprompt
+iterate from 1 through height number
+inside each iteration as in 1 iterate i hash & (height-i) dots

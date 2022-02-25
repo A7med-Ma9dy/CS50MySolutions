@@ -1,0 +1,18 @@
+//get key
+
+//validate key
+ /*
+ check key length = 26
+ check non alpha character
+ check for repeated case insentive characters 
+ */
+ 
+//get plaintext
+
+//Encipher
+ /*
+ convert each letter to the other mapping letter
+ preserve case & non alpha characters
+ */
+ 
+//print ciphertext
